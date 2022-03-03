@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+   xmlns:android="http://schemas.android.com/apk/res/android" >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Detail Text"
+        android:textColor="#444"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="78dp"
+        android:id="@+id/detailText"
+        >
+    </TextView>
+
+</RelativeLayout>
